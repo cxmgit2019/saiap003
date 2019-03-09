@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: helloheroku
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: caixiaoming
+Implementation-Vendor-Id: jp.zr.scsk
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/helloheroku
+Created-By: Maven Integration for Eclipse
+
